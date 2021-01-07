@@ -1,0 +1,13 @@
+ul.no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+button.b1{
+    display: block;
+    float: left;
+}
+button.b2{
+    display: block;
+    float: left;
+}
