@@ -7,7 +7,30 @@ button.b1{
     display: block;
     float: left;
 }
-button.b2{
-    display: block;
-    float: left;
+
+body{
+    background-color: coral;
 }
+.form{
+    text-align: center;
+}
+.form6{
+    text-align: center;
+    postion: relative;
+    font-size: 20px;
+}
+.p1{
+    font-size: 70px;
+    border: 5px solid #000000;
+    padding: 10px;
+    width: 60%;
+    margin: auto;  
+}
+.contentButton{
+    position: relative;
+    bottom: -50px;;
+    font-size: 25px;
+    text-align: center;
+}
+
+
